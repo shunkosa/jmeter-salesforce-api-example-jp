@@ -1,2 +1,2 @@
 # jmeter-salesforce-api-example-jp
-JMeterでSalesforceにログインするシナリオのサンプルです
+JMeterでSalesforceのREST APIをコールするシナリオのサンプルです
